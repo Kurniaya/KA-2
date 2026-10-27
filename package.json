@@ -1,0 +1,14 @@
+
+{
+  "name": "praktikum-docker",
+  "version": "1.0.0",
+  "description": "Aplikasi pencatatan data pohon dengan Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.14.0"
+  }
+}
